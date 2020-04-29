@@ -1,0 +1,253 @@
+.head{
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(49, 109, 195);
+    justify-content: space-around;
+    padding-bottom: 5px;
+    
+}
+.head1{
+   
+    display: inline;
+    padding-left: 5em;
+    flex: 1;
+    
+}
+.head2{
+    padding-top: 5px;
+    text-align: center;
+    flex: 3;
+}
+.head3{
+    padding-right: 5em;
+    flex: 1;
+    
+}
+
+.btn{
+    margin-top: 2.5px;
+    border: green !important;
+    color: green !important;
+    background-color:white;
+    border-radius: 0%;
+    font-size: 10px;
+    
+}
+
+.icon{
+    margin-right: 1em;
+}
+
+.navv{
+    background-color: ghostwhite;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    background-color: transparent;
+    
+    
+}
+
+.navv1{
+    flex: 3;
+}
+
+.navv2{
+    flex: 3 ;
+    background-color: transparent;
+}
+.logo{
+    margin-left: 90px;
+    height: 60px;
+}
+.mar{
+    padding-left: 85px;
+    padding-right: 85px;
+    justify-content: space-around;
+}
+.mar1{
+    
+    background-color: rgb(49, 109, 195);
+    color: white;
+    justify-content: space-around;
+}
+
+.intro{
+    padding-top: 50px;
+    background-color: ghostwhite;
+    padding-bottom: 50px;
+}
+
+.intro1{
+display: flex;
+justify-content: center;
+}
+
+.intro2{
+    display: flex;
+justify-content: center;
+padding-right: 200px;
+padding-left: 200px;
+}
+
+.smoll{
+    display: flex;
+    justify-content: center;
+}
+.span1{
+    padding-right: 15px;
+}
+.span2{
+    padding-left: 15px;
+}
+
+.banner{
+    padding-right: 200px;
+    padding-left: 200px;
+    background-color:rgb(49, 109, 195);
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 50px;
+}
+.banner1{
+
+   padding-top: 50px;
+   
+}
+.banner2{
+    padding-top: 50px;
+}
+.banner3{
+    padding-top: 50px;
+}
+.banner4{
+    padding-top: 50px;
+}
+
+.doing{
+
+width: 4em;
+margin-top: 30px;
+margin-left: 7em;
+}
+
+.cardd{
+    padding-left: 200px;
+    padding-right: 200px;
+}
+.cardd2{
+    padding-top: 30px;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+.project{
+    padding-top: 50px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.box1-2{
+    padding-right: 420px;
+    display: flex;
+    justify-content: space-around;
+}
+.box3-4{
+    padding-right: 500px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.box2{
+    padding-left: 200px;
+}
+.box4{
+    padding-left: 200px;
+}
+
+.dosradabba{
+    
+    padding-right: 8em;
+    width: 100px;
+    height: 5px;
+    flex: 1;
+}
+.boxf{
+    flex: 3;
+    padding-left: 8em;
+}
+
+.gal{
+
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+
+
+div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    display: flex;
+    width: 200px;
+    
+  }
+  
+  div.gallery:hover {
+    border: 1px solid #777;
+  }
+  
+  div.gallery img {
+    width: 100%;
+    height: auto;
+  }
+  
+  div.desc {
+    padding: 15px;
+    text-align: center;
+  }
+
+  .galpic
+  {
+      display: flex;
+      justify-content: center;
+      padding-bottom: 100px;
+  }
+
+  .foot{
+      background-color: rgb(37, 39, 46);
+      display: flex;
+      justify-content: space-around;
+  }
+
+  .foot1{
+      padding-top: 80px;
+      -webkit-text-size-adjust: auto;
+  }
+
+  .foot2
+  {
+    padding-top: 80px;
+  }
+  .foot3
+  {
+    padding-top: 80px;
+
+  }
+
+  .footer
+  {
+      
+      color: white;
+    background-color: rgb(49, 109, 195);
+  }
+  button{
+      color: white;
+      background-color: rgb(49, 109, 195) ;
+  }
+
+  .btnn
+  {
+      font-size: 1em;
+    color: white;
+    background-color: rgb(49, 109, 195) ;
+    border-radius: 25%;
+  }
